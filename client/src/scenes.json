@@ -1,0 +1,1460 @@
+
+[
+	{
+		"text": "You choose to go on a trip with a friend for the summer do you..",
+		"image" : "./images/begin.jpeg",
+		"options" : [
+			{
+				"text": "Go sailing on the coast of Florida",
+				"send_to": 1,
+				"outcome_text": "Time to sand you straight to Florida! :boat:"
+			},
+			{
+				"text": "Go hiking/camping in Washington",
+				"send_to": 2,
+				"outcome_text": "Time for an intents hiking trip! :camping:"
+			},
+			{
+				"text": "Go on a road trip in Mexico",
+				"send_to": 3,
+				"outcome_text": "Vamonos! :flag-mx:"
+			},
+			{
+				"text": "Go to a Fiji beach house",
+				"send_to": 4,
+				"outcome_text": "Are you shore you are ready for Fiji?"
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+
+{
+		"text" : "You go sailing on the coast of Florida and take a nap, when you wake up you realize that you can’t see the shoreline! What do you do once your friend has been awoken and you realize you are lost.",
+		"image" : "./images/lost_at_sea.jpeg",
+		"options" : [
+			{
+				"text": "Try getting in touch through the boat's radio",
+				"send_to": 5
+			},
+			{
+				"text": "Try using your phone for communication",
+				"send_to": 6
+			},
+			{
+				"text": "Try shooting a flare",
+				"send_to": 7
+			},
+			{ 
+				"text": "Sit calm in patience and hope for the best",
+				"send_to": 8
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+
+{
+		"text" : "You go hiking and camping in Washington, walking up the Lakes Trail you and your friend see a cougar, what do you do...",
+		"image" : "./images/hiking_camp.jpeg",
+		"options" : [
+			{
+				"text": "Climb onto a tree!",
+				"send_to": 9
+			},
+			{
+				"text": "Jump into the lake!",
+				"send_to": 10
+			},
+			{
+				"text": "Play dead",
+				"send_to": 11
+			},
+			{
+				"text": "Run!!!",
+				"send_to": 12
+			} 
+		]
+	},
+
+
+
+
+
+
+{
+		"text" : "You go on a road trip to Mexico, an hour after crossing the border you notice the gas tank is almost at empty do you..",
+		"image" : "./images/mexico_trip.jpeg",
+		"options" : [
+			{
+				"text": "Check the GPS on your phone and look for the nearest gas station",
+				"send_to": 13
+			},
+			{
+				"text": "Walk up to the tiny house on the side of the deserted road",
+				"send_to": 14
+			},
+			{
+				"text": "Walk around in hopes of finding a gas station..",
+				"send_to": 15
+			},
+			{
+				"text": "Sit and wait for cars to pass by..",
+				"send_to": 16
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+
+{
+		"text" : "You go to Fiji and are at a restaurant, do you order...",
+		"image" : "./images/rest.jpeg",
+		"options" : [
+			{
+				"text": "A fruit salad",
+				"send_to": 67
+			},
+			{
+				"text": "A very rare steak",
+				"send_to": 68
+			},
+			{
+				"text": "A glass of water",
+				"send_to": 69
+			},
+			{
+				"text": "Mashed Potatoes",
+				"send_to": 70
+			} 
+		]
+    },
+
+
+
+
+
+
+
+
+	{
+		"text": "Beep...Beep...no signal it seems, but now you are hungry!",
+		"image" : "./images/no_radio_signal.jpeg",
+		"options" : [
+			{
+				"text": "Wait five minutes and try again, your hunger can wait",
+				"send_to": 25
+			
+			},
+			{
+				"text": "Check out the map you had seen on the floor awhile ago",
+				"send_to": 25
+			},
+			{
+				"text": "Have a meal with your friend",
+				"send_to": 26
+			},
+			{
+				"text": "Eat alone, and hide the food for yourself",
+				"send_to": 27
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"text": "Oh no your battery is low, but you seem to have signal who do you call?",
+		"image" : "./images/phone_call.jpeg",
+		"options" : [
+			{
+				"text": "Mom",
+				"send_to": 29
+			},
+			{
+				"text": "Brother",
+				"send_to": 29
+			},
+			{
+				"text": "Friend",
+				"send_to": 29
+			},
+			{
+				"text": "Pizza Hut",
+				"send_to": 30
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+
+
+	{
+		"text": "You have just shot the flare when you suddenly see something coming straight towards you from the sky..",
+		"image" : "./images/flare_shot.jpeg",
+		"options" : [
+			{
+				"text": "Run and hide in the boat room",
+				"send_to": 33
+			},
+			{
+				"text": "Wait and see what it is",
+				"send_to": 33
+			},
+			{
+				"text": "Jump into the water",
+				"send_to": 34
+			},
+			{
+				"text": "Try and catch it",
+				"send_to": 35
+			} 
+		]
+	},
+
+
+
+
+
+
+
+	{
+		"text": "You are sitting calm when suddenly you see a big ship coming your way! Do you..",
+		"image" : "./images/big_boat.jpeg",
+		"options" : [
+			{
+				"text": "Wave your hands to get their attention",
+				"send_to": 38
+			},
+			{
+				"text": "Move towards them",
+				"send_to": 39
+			},
+			{
+				"text": "Eat a sandwich",
+				"send_to": 40
+			},
+			{
+				"text": "Swim towards them",
+				"send_to": 38
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+
+	{
+		"text": "You're on the tree branch when you notice you have knocked down a baby bird from it's nest to the ground do you..",
+		"image" : "./images/baby_bird.jpeg",
+		"options" : [
+			{
+				"text": "Risk your life and save the poor baby",
+				"send_to": 51
+			},
+			{
+				"text": "Let it distract the cougar while you hide in a different part of the tree",
+				"send_to": 52
+			},
+			{
+				"text": "Knock your friend off of the tree, let them get eaten, grab the bird and run.",
+				"send_to": 51
+			},
+			{
+				"text": "Hide inside of the hole you see on the side of the tree",
+				"send_to": 52
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+
+	{
+		"text": "You have jumped into the lake when you suddenly crave carrot cake, do you..",
+		"image" : "./images/carrot_cake.jpeg",
+		"options" : [
+			{
+				"text": "Swim towards the other side and run to the nearest town..",
+				"send_to": 55
+			},
+			{
+				"text": "Get the soggy granola bar from your back pocket and hope it fills the void",
+				"send_to": 56
+			},
+			{
+				"text": "Save your friend who is swimming straight towards an alligator",
+				"send_to": 57
+			},
+			{
+				"text": "Run into the house in the side of the lake",
+				"send_to": 55
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+	{
+		"text": "Uh-oh seems like the cougar did not believe it. What do you do..",
+		"image" : "./images/cougar.jpg",
+		"options" : [
+			{
+				"text": "Scream for help",
+				"send_to": 59
+			},
+			{
+				"text": "Call 911",
+				"send_to": 59
+			},
+			{
+				"text": "Jump in the lake",
+				"send_to": 59
+			},
+			{
+				"text": "Apologize for coming in his territory",
+				"send_to": 60
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+	{
+		"text": "You choose to run when suddenly the cougar turns around and runs away from you, do you",
+		"image" : "./images/run.jpeg",
+		"options" : [
+			{
+				"text": "Chase it",
+				"send_to": 63
+			},
+			{
+				"text": "Climb into a tree for good measures",
+				"send_to": 52
+			},
+			{
+				"text": "Continue your trip",
+				"send_to": 52
+			},
+			{
+				"text": "Pull out your phone and check facebook real quick",
+				"send_to": 63
+			} 
+		]
+	},
+
+
+
+
+
+
+
+	{
+		"text": "You check the GPS and find the nearest one when suddenly you pass out, and wake up surrounded by seven palm trees, all of them amazing, what do you say",
+		"image" : "./images/palm_trees.jpeg",
+		"options" : [
+			{
+				"text": "'Sorry trees I did not mean to pollute your air with my car'",
+				"send_to": 74
+			},
+			{
+				"text": "'Where am I'",
+				"send_to": 74
+			},
+			{
+				"text": "Instead of saying anything you make a run for it",
+				"send_to": 74
+			},
+			{
+				"text": "'I love you palm trees'",
+				"send_to": 74
+			} 
+		]
+	},
+
+
+
+
+
+
+	{
+		"text": "You decide to walk up to the tiny house when suddenly you see your friend drive away.. THEY LIED TO YOU.. what do you do..",
+		"image" : "./images/driving_away.jpeg",
+		"options" : [
+			{
+				"text": "Go in the house and make a friend",
+				"send_to": 17
+			},
+			{
+				"text": "Try to get a passing cars attention",
+				"send_to": 63
+			},
+			{
+				"text": "Run behind the car",
+				"send_to": 64
+			},
+			{
+				"text": "Mourn the loss of a friendship",
+				"send_to": 64
+			} 
+		]
+	},
+
+
+
+
+
+	{
+		"text": "You and your friend are walking around when you see a festival ahead, do you..",
+		"image" : "./images/festival_ahead.jpeg",
+		"options" : [
+			{
+				"text": "Go and have some fun",
+				"send_to": 41
+			},
+			{
+				"text": "Ask around about a gas station",
+				"send_to": 42
+			},
+			{
+				"text": "Make friends",
+				"send_to": 42
+			},
+			{
+				"text": "Embrace the new enviornment and move in with the friend you have made",
+				"send_to": 17
+			} 
+		]
+	},
+
+
+
+
+
+
+	{
+		"text": "You are seeing cars pass by and four cars stop in front of you, do you go in the..",
+		"image" : "./images/school_bus.jpeg",
+		"options" : [
+			{
+				"text": "Limo",
+				"send_to": 45
+			},
+			{
+				"text": "Ice-cream truck",
+				"send_to": 46
+			},
+			{
+				"text": "School bus",
+				"send_to": 47
+			},
+			{
+				"text": "Semi-truck",
+				"send_to": 48
+			} 
+		]
+	},
+
+
+
+
+
+
+
+
+	{
+		"text": "You are hanging out with your new friend when you notice they have four sets on teeth at the roof of their mouth do you..",
+		"image" : "./images/scared.jpeg",
+		"options" : [
+			{
+				"text": "Confront them",
+				"send_to": 18
+			},
+			{
+				"text": "Ignore it",
+				"send_to": 20
+			},
+			{
+				"text": "Snoop with their things",
+				"send_to": 18
+			}
+		]
+	},
+
+
+
+
+
+
+
+	{
+		"text": "You have done the wrong move, and they decide to spare you if you beat them in Mario Kart, who do you use",
+		"image" : "./images/playing_game.jpeg",
+		"options" : [
+			{
+				"text": "Baby Rosalina",
+				"send_to": 21
+			},
+			{
+				"text": "Wario",
+				"send_to": 19
+			},
+			{
+				"text": "Link",
+				"send_to": 19
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "Oh no you have lost.. but the monster has decided to let you chose your fate, do you...",
+		"image" : "./images/human_stew.jpeg",
+		"options" : [
+			{
+				"text": "Get made into a nice stew",
+				"send_to": 20
+			},
+			{
+				"text": "Get returned to it's homeland which is a different planet",
+				"send_to": 22
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "Oh no you are now dead :(",
+		"image" : "./images/dead_scene.jpeg",
+		"options" : [
+			{
+				"text": "SAd...",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You have won and the monster decides to put you in a world-wide Mario Kart Tournmanet, do you",
+		"image" : "./images/playing_game.jpeg",
+		"options" : [
+			{
+				"text": "Accept the offer",
+				"send_to": 23
+			},
+			{
+				"text": "Decline",
+				"send_to": 24
+			}
+		]
+	},
+
+
+
+
+
+
+	{
+		"text": "You are the homeland when suddenly the sun explodes and you are now DEAD",
+		"image" : "./images/sad_sun.jpg",
+		"options" : [
+			{
+				"text": "SAd...",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "You are the best mario kart player on the planet, and have won 2 Million bucks Congrats!!",
+		"image" : "./images/rich_money.jpeg",
+		"options" : [
+			{
+				"text": "Now you are rich and have succesfully won this game without dying!",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You declined and decided to go home, only to fall and hit your head causing DEATH",
+		"image" : "./images/dead_scene.jpeg",
+		"options" : [
+			{
+				"text": "SAd...",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "Suddenly you pass out, into the ocean to never wake up..",
+		"image" : "./images/passed_in_ocean.jpeg",
+		"options" : [
+			{
+				"text": "YOU ARE NOW DEAD",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+
+
+
+	{
+		"text": "You are having a meal with your friend when you see land",
+		"image" : "./images/far_land.jpeg",
+		"options" : [
+			{
+				"text": "Steer towards it",
+				"send_to": 28
+			},
+			{
+				"text": "Finish your food and then steer",
+				"send_to": 28
+			}
+		]
+	},
+
+
+
+
+
+
+
+
+	{
+		"text": "You are eating alone when you sadly choke on a radish. You died.",
+		"image" : "./images/radish.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+
+	{
+		"text": "You arrive on the land and notice that it is only dogs on the island, you and your friend live with them for 3 days, when a tornado sadly takes you away. You died.",
+		"image" : "./images/tornado.jpg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+
+	{
+		"text": "Ring..Ring...Ring..No answer, you sigh deeply when suddenly the boat flips over and you die.",
+		"image" : "./images/abandoned_boat.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+
+
+	{
+		"text": "Pizza hut answers do you..",
+		"image" : "./images/pizzahut_guy.jpg",
+		"options" : [
+			{
+				"text": "Order a pizza and then ask for help",
+				"send_to": 31
+			},
+			{
+				"text": "Ask for help",
+				"send_to": 32
+			}
+		]
+	},
+
+
+
+
+
+
+
+	{
+		"text": "You order the pizza succesfully and ask for help, Pizza Hut is on it, and in less than an hour you and your friend are now safe with a pizza in your arms. Great job you won!",
+		"image" : "./images/pizza.jpg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "Pizza hut has thought it was a prank call, your phone is now dead when suddenly lighting strikes your boat..you die.",
+		"image" : "./images/pizzahut_prankcall.jpg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "BAM! Whatever has fallen has hit the boat hard sending you and everything else under water, down there you are taken by a shark and eaten.you die",
+		"image" : "./images/shark.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "You are swimming when suddenly you look back and notice the tail surrounding the bottom half of your body, you sigh happily and become the ruler of the ocean area around you. You win!!!",
+		"image" : "./images/swim.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+
+
+	{
+		"text": "You catch it and it turnd out you had hit a golden bird, the bird wakes up and thanks you, you are shocked, do you..",
+		"image" : "./images/gold_bird.jpeg",
+		"options" : [
+			{
+				"text": "Tell the bird you are sorry for causing harm",
+				"send_to": 36
+			},
+			{
+				"text": "Take him in and become very wise",
+				"send_to": 37
+			}
+		]
+	},
+
+
+
+
+
+
+
+	{
+		"text": "He looks at you with a dissapointed look, and suddenly pecks your heart out..You die.",
+		"image" : "./images/peak_heart_out",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "With the newly added wisdom you decide this world is not for you, and move onto live with the wise birds, to become their ruler. You win!",
+		"image" : "./images/bird_lady.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You do not get their attention so you go onto eat a sandwhich with tears in your eyes. and you die of sadness.",
+		"image" : "./images/sandwhich.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+
+	{
+		"text": "You are moving towards them when you notice it is the one and only Larry the cucumber navigating the ship, you are shocked, are you dreaming? You pinch yourself and sadly it was all a dream, you have no friends and are on no trip, you are just insane..",
+		"image" : "./images/larry_cucumber.jpg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You are eating your sandwich when you are suddenly transported to a world full of flavors so overwhelming, you die",
+		"image" : "./images/sandwhich.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+
+
+	{
+		"text": "You are having fun, and decide to go on the ferris wheel, and oh no, it has broken from it's hinges.. You hurdle towards the ocean and to your death..",
+		"image" : "./images/ferris_wheel.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+
+
+
+	{
+		"text": "You are socialising when you run into a group of rebelious teens, do you..",
+		"image" : "./images/run.jpeg",
+		"options" : [
+			{
+				"text": "Run",
+				"send_to": 43
+			},
+			{
+				"text": "Talk it out",
+				"send_to": 44
+			}
+		]
+	},
+
+
+
+
+
+
+
+	{
+		"text": "Wrong move, you just got shot, and you die",
+		"image" : "./images/dead_scene.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+
+	{
+		"text": "You go to talk it out when they begin to surround you, and suddenly you are a lamp",
+		"image" : "./images/lamp.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "You go in the limo and it flies to space, you don't have a suit you are dead.",
+		"image" : "./images/space.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "You go into the icecream truck and meet Johnny, he offers you two job positions, do you..",
+		"image" : "./images/ice_cream.jpeg",
+		"options" : [
+			{
+				"text": "Deliver Ice-Cream with him",
+				"send_to": 49
+			},
+			{
+				"text": "Make ice-cream",
+				"send_to": 50
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "You accidentally joined a snake club, and have been bitten. Dead!",
+		"image" : "./images/snake.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You are in the truck, when it turns out the driver is your dog's old owner, in a quick move the driver purposefully drives off the road, and the last words you hear are: If I can't have Buddy nobody can. You die.",
+		"image" : "./images/buddy.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "You two deliver, and live happily ever after as the dream team of ice-cream sellers. You win!",
+		"image" : "./images/icecream_2.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0,
+				"outcome_text": "Lets go!"
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "In the process of making ice-cream you fall into the machine and become ice-cream. You die.",
+		"image" : "./images/ice_cream.jpg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You have risked your life saving the baby bird, this having caused you to leave the trail for immediate care, when you get home you..",
+		"image" : "./images/baby_bird.jpeg",
+		"options" : [
+			{
+				"text": "Set the bird down on a blanket and treat him as your own",
+				"send_to": 53
+			},
+			{
+				"text": "Go back to the park the next day to his nest",
+				"send_to": 54
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "oh no! Mt. Saint Helens is erupting..soon enough the lava catches you up, and you are done for, and dead.",
+		"image" : "./images/volcano.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You now have a pet bird to care for and love. You win!",
+		"image" : "./images/celebrate.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "When you return to the park, the bird bids you goodbye and you live a sad lonely bird-less life..the end.",
+		"image" : "./images/bird_returned.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "As you begin to make a run for it, the cougar catches you, you die",
+		"image" : "./images/cougar.jpg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "You pull out the granola bar and take a bite of the granola bar, it is delicious",
+		"image" : "./images/granola_bar.jpg",
+		"options" : [
+			{
+				"text": "Finish it",
+				"send_to": 58
+			},
+			{
+				"text": "Save some for later",
+				"send_to": 58
+			}
+		]
+	},
+
+
+
+
+
+
+	{
+		"text": "Your friend is saved, but the swimming has made them pretty crazy, you are eaten, and dead.",
+		"image" : "./images/dead_scene.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "Turns out it had peanuts, which you are deathly allergic to, you die",
+		"image" : "./images/peanut.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "You are suddenly surrounded by light, the sun has exploded, you die",
+		"image" : "./images/sad_sun.jpg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You are forgiven and choose one life path",
+		"image" : "./images/two_paths.jpg",
+		"options" : [
+			{
+				"text": "Tree Whisperer",
+				"send_to": 61
+			},
+			{
+				"text": "Dirt Analyst",
+				"send_to": 62
+			}
+		]
+	},
+
+
+
+
+
+
+	{
+		"text": "You become one with the trees and live your days in peace, great job!",
+		"image" : "./images/tree.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "Turns out the dirt was actually quick sand, you are taken in, and dead.",
+		"image" : "./images/quick_sand.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"text": "Nice choice, you have saved yourself from the erupted volcano! You win!",
+		"image" : "./images/celebrate.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+			}
+		]
+	},
+
+
+
+	{
+		"text": "Oh no! The car didn't see you, you are dead.",
+		"image" : "./images/drive_away.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You think to youself, forget these fake friends, and walk up to a starnger and say hi, they ask you what your name is do you..",
+		"image" : "./images/hello.jpeg",
+		"options" : [
+			{
+				"text": "Say the truth",
+				"send_to": 65
+			
+			},
+			{
+				"text": "Lie",
+				"send_to": 66
+			}
+		]
+	},
+
+
+
+	{
+		"text": "Great Job, now you have a real friend! The end!",
+		"image" : "./images/celebrate.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+	{
+		"text": "You are eating happily when a pineapple clogs your throat, you choke to death.",
+		"image" : "./images/pineapple.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+
+	{
+		"text": "The rare steak was too rare, you go to the hospital and pass out forever(AKA die).",
+		"image" : "./images/hospital.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+	{
+		"text": "You drink the water and are no longer thirsty do you..",
+		"image" : "./images/glass.jpeg",
+		"options" : [
+			{
+				"text": "Stay for a meal",
+				"send_to": 70
+			},
+			{
+				"text": "Go Home",
+				"send_to": 71
+			}
+		]
+	},
+
+
+
+
+	{
+		"text": "You have ordered the mashed potatoes and get up to go home, do you step out..",
+		"image" : "./images/pot.jpeg",
+		"options" : [
+			{
+				"text": "From the right",
+				"send_to": 72
+			},
+			{
+				"text": "From the left",
+				"send_to": 73
+			}
+		]
+	},
+
+
+	{
+		"text": "You go home, and live a happy life! Great Job!",
+		"image" : "./images/celebrate.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+	{
+		"text": "You go to the right, go home and sleep soundly. Great Job!..The end.",
+		"image" : "./images/sleep.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+
+
+	{
+		"text": "You go to the left and slip on some leftovers, you bang your head on the floor and that's it, you are dead!",
+		"image" : "./images/leftright.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	},
+
+	{
+		"text": "Uh-Oh the trees take nothing from anyone, they zap you with lazers and you are dead.",
+		"image" : "./images/dead_scene.jpeg",
+		"options" : [
+			{
+				"text": "Start Over",
+				"send_to": 0
+				
+			}
+		]
+	}
+
+
+
+]

@@ -27,7 +27,7 @@ class App extends Component {
 
         <header className="App-header">
 
-          <h1 className="App-title">Welcome to the Game</h1>
+          <h1 className="App-title">Virtual Wayfarer</h1>
         </header>
 
         <p>{this.state.name}</p>

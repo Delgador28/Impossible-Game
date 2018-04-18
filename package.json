@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Delgador28/Impossible-Game/issues"
   },
-  "homepage": "https://github.com/Delgador28/Impossible-Game#readme"
+  "homepage": "https://github.com/Delgador28/Impossible-Game#readme",
+  "dependencies": {
+    "build": "^0.1.4"
+  }
 }
